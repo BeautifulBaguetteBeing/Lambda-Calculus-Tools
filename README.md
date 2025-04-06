@@ -12,7 +12,7 @@ Elsa by Niki Vazou and Ranjit Jhala is a minimalist coding language for the Pure
 ## Websites:
 
 ### 1. The Way of the Lambda
-[https://lambda.schlafhase.uk/] by Linus Yury Schneeburg
+https://lambda.schlafhase.uk/ by Linus Yury Schneeburg
 
 ### 2. Trompyst
 https://gwennlbh.github.io/trompyst/ by Gwenn Le Bihan
